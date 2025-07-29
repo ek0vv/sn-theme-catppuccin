@@ -1,0 +1,18 @@
+{
+  "name": "sn-theme-catppuccin",
+  "version": "1.0.0",
+  "description": "Catppuccin themes for Standard Notes",
+  "private": true,
+  "workspaces": [
+    "themes/latte",
+    "themes/frappe",
+    "themes/macchiato",
+    "themes/mocha"
+  ],
+  "author": "ek0vv",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'No build step necessary for pure CSS themes.'",
+    "publish": "echo 'Publish by tagging a release and using jsDelivr URLs.'"
+  }
+}
