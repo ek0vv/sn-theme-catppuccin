@@ -39,25 +39,10 @@
 
 Click the preferences slider icon in the lower left-hand corner of Standard Notes, then go to Plugins and paste the Listed.to link for your desired flavor in the "Install Custom Plugin" field.
 
-    - Latte
-      ```shell
       https://listed.to/p/nu6LnF9CMD
-      ```
 
-    - Frappé
-      ```shell
       https://listed.to/p/HKifwT1Nij
-      ```
 
-    - Macchiato
-      ```shell
-      https://listed.to/p/ayJvhhXHaV
-      ```
-
-    - Mocha
-      ```shell
-      https://listed.to/p/N6d16obCGe    
-      ```
   
 
 <p align="center">
